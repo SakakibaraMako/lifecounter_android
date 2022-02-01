@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LifeCounter</string>
+    <string name="btn_plus1_text">+</string>
+    <string name="btn_plus5_text">+5</string>
+    <string name="btn_minus1_text">-</string>
+    <string name="btn_minus5_text">-5</string>
+    <string name="btn_enter">Enter</string>
+    <string name="default_input_text">Please enter the number of players.</string>
+</resources>
